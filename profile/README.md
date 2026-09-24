@@ -2,10 +2,6 @@
   <img src="https://yt3.googleusercontent.com/rpLkyxiHIp4fDlvY4xmg612W3OSqdE6wwxUBWlSnY32HlChH3S7JpiwlzioN9I-WMmyZc7Dpvd0=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="Sheila Studios banner" />
 </p>
 
-<p align="center">
-  <img src="https://yt3.googleusercontent.com/ZiVfBnX_BtJQff_rJylpUxITT_dI7gPsmxMMYVeQXDz6dGhOnmDtpU62d9QxWGdHuzUyCSpy=s160-c-k-c0x00ffffff-no-rj" alt="Sheila Studios avatar" width="120" height="120" />
-</p>
-
 <h1 align="center">Sheila Studios</h1>
 
 <p align="center"><strong>Calm systems judgment for messy technical work.</strong></p>
