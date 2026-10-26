@@ -25,6 +25,7 @@ Start with the kind of work you want to inspect. Software, research evidence and
 
 | Project | What to explore | Public material |
 |---|---|---|
+| [Triad Workcell](https://github.com/sheilastudios/triad-workcell) | Shared ownership, interrupted completion and evidence-bound handoffs | Coordination prototype documentary edition; synthetic example, implementation private |
 | [Tokenizer-Native Word-Count Index](https://github.com/sheilastudios/token-word-count-index) | Calibration success, expanded-corpus failures and count-policy boundaries | Historical research note; implementation and calibration text private |
 | [Narrative Issue Corpus](https://github.com/sheilastudios/narrative-issue-corpus) | Supported story problems, intentional ambiguity and missing draft context | Curated literary issue guide and original examples; not an automated evaluator |
 | [TellTale](https://github.com/sheilastudios/telltale) | Repeated records, uncertain execution and missing-history diagnosis | Transcript-diagnostics documentation and authored synthetic examples; implementation private |
