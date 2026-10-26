@@ -25,6 +25,7 @@ Start with the kind of work you want to inspect. Software, research evidence and
 
 | Project | What to explore | Public material |
 |---|---|---|
+| [Narrative Issue Corpus](https://github.com/sheilastudios/narrative-issue-corpus) | Supported story problems, intentional ambiguity and missing draft context | Curated literary issue guide and original examples; not an automated evaluator |
 | [TellTale](https://github.com/sheilastudios/telltale) | Repeated records, uncertain execution and missing-history diagnosis | Transcript-diagnostics documentation and authored synthetic examples; implementation private |
 | [Client Intake & Workflow Hardening](https://github.com/sheilastudios/client-intake-workflow) | Submission, duplicate handling, operator decisions and client-scoped file boundaries | Engineering case study and synthetic walkthrough; application private |
 | [Grand Coder](https://github.com/sheilastudios/grand-coder) | AI-assisted engineering judgment, measured gains and documented failures | Historical evaluation field report; implementation private |
@@ -34,6 +35,8 @@ Start with the kind of work you want to inspect. Software, research evidence and
 | [DGCE](https://github.com/sheilastudios/dgce) | An unofficial DreamGen extension for continuity and selective recall | Public software; consult [published releases](https://github.com/sheilastudios/dgce/releases) separately from development candidates on main |
 
 For transcript diagnostics, begin with **TellTale**; for a practical workflow example, begin with **Client Intake**. For methods and results, try **Grand Coder** or **Delegation boundary evidence**. For creative tools, explore **The Entropy Engine**, **Infinite Manuscript** and **DGCE**.
+
+For literary critique, explore **Narrative Issue Corpus**: where a repair is supported, where it is not, and when more context is needed.
 
 Each repository explains its own evidence, maturity and rights. A documentation showcase is not an installation package or a hosted-product offer.
 
