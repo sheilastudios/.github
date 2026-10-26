@@ -25,6 +25,7 @@ Start with the kind of work you want to inspect. Software, research evidence and
 
 | Project | What to explore | Public material |
 |---|---|---|
+| [TellTale](https://github.com/sheilastudios/telltale) | Repeated records, uncertain execution and missing-history diagnosis | Transcript-diagnostics documentation and authored synthetic examples; implementation private |
 | [Client Intake & Workflow Hardening](https://github.com/sheilastudios/client-intake-workflow) | Submission, duplicate handling, operator decisions and client-scoped file boundaries | Engineering case study and synthetic walkthrough; application private |
 | [Grand Coder](https://github.com/sheilastudios/grand-coder) | AI-assisted engineering judgment, measured gains and documented failures | Historical evaluation field report; implementation private |
 | [The Entropy Engine](https://github.com/sheilastudios/rp-host) | Three distinct experiences: Roleplay, Story and Companion | Project-family showcase; current working name, not an integrated public release |
@@ -32,7 +33,7 @@ Start with the kind of work you want to inspect. Software, research evidence and
 | [Delegation boundary evidence](https://github.com/sheilastudios/delegation-boundary-evidence) | Policy optimization versus boundary enforcement in sequential delegation | Archived research records and reproducible finite-model code; bounded findings |
 | [DGCE](https://github.com/sheilastudios/dgce) | An unofficial DreamGen extension for continuity and selective recall | Public software; consult [published releases](https://github.com/sheilastudios/dgce/releases) separately from development candidates on main |
 
-For a practical workflow example, begin with **Client Intake**. For methods and results, try **Grand Coder** or **Delegation boundary evidence**. For creative tools, explore **The Entropy Engine**, **Infinite Manuscript** and **DGCE**.
+For transcript diagnostics, begin with **TellTale**; for a practical workflow example, begin with **Client Intake**. For methods and results, try **Grand Coder** or **Delegation boundary evidence**. For creative tools, explore **The Entropy Engine**, **Infinite Manuscript** and **DGCE**.
 
 Each repository explains its own evidence, maturity and rights. A documentation showcase is not an installation package or a hosted-product offer.
 
