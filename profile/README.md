@@ -25,7 +25,11 @@ Start with the kind of work you want to inspect. Software, research evidence and
 
 | Project | What to explore | Public material |
 |---|---|---|
-| [Genesis](https://github.com/sheilastudios/genesis) | Agent-created maintenance practices: artifacts, later use and net benefit | Research hypothesis and original illustration; no behavioral result established by inspected sources |
+| [Genesis](https://github.com/sheilastudios/genesis) | Agent-developed memory practices, retrieval improvements and continuity for ongoing work | v1–v4 exploratory progress report, evidence status and reproduction roadmap; research documents, not a released execution bundle |
+| [Talking Heads](https://github.com/sheilastudios/talking-heads) | Chess where the pieces talk: a browser page, model-versus-model table and provider adapters | MIT-licensed standalone code; [watch the companion-host demo](https://sheilastudios.com/demos/talking-heads/index.html), a separate host and recording outside the software license |
+| [SCCN — Unthink](https://github.com/sheilastudios/sccn) | What survives when scenes are reconstructed from compact semantic packets? | Bounded scene-reconstruction study: three packets, seven model/surface configurations and 63 replies; not the full SCCN specification |
+| [The Infallible Bureaucrat](https://github.com/sheilastudios/infallible-bureaucrat) | Where judgment goes when we govern AI agents | Working position paper and proposed evaluation; not a new experimental result |
+| [Atelier](https://github.com/sheilastudios/atelier) | Candidate work, provenance, successors and review before adoption | Source-inspected prototype design account; not an operating-workflow demonstration or software release |
 | [Triad Workcell](https://github.com/sheilastudios/triad-workcell) | Shared ownership, interrupted completion and evidence-bound handoffs | Coordination prototype documentary edition; synthetic example, implementation private |
 | [Tokenizer-Native Word-Count Index](https://github.com/sheilastudios/token-word-count-index) | Calibration success, expanded-corpus failures and count-policy boundaries | Historical research note; implementation and calibration text private |
 | [Narrative Issue Corpus](https://github.com/sheilastudios/narrative-issue-corpus) | Supported story problems, intentional ambiguity and missing draft context | Curated literary issue guide and original examples; not an automated evaluator |
@@ -37,9 +41,13 @@ Start with the kind of work you want to inspect. Software, research evidence and
 | [Delegation boundary evidence](https://github.com/sheilastudios/delegation-boundary-evidence) | Policy optimization versus boundary enforcement in sequential delegation | Archived research records and reproducible finite-model code; bounded findings |
 | [DGCE](https://github.com/sheilastudios/dgce) | An unofficial DreamGen extension for continuity and selective recall | Public software; consult [published releases](https://github.com/sheilastudios/dgce/releases) separately from development candidates on main |
 
-For transcript diagnostics, begin with **TellTale**; for a practical workflow example, begin with **Client Intake**. For methods and results, try **Grand Coder** or **Delegation boundary evidence**. For creative tools, explore **The Entropy Engine**, **Infinite Manuscript** and **DGCE**.
+For a hands-on starting point, try **[Talking Heads](https://github.com/sheilastudios/talking-heads)** or [watch the demonstration](https://sheilastudios.com/demos/talking-heads/index.html). For agent memory research, begin with **[Genesis](https://github.com/sheilastudios/genesis)** and its [experiment status](https://github.com/sheilastudios/genesis#experiment-status--13-november-2026). For semantic reconstruction, explore **SCCN — Unthink**; for the governance argument, read **The Infallible Bureaucrat**.
 
-For literary critique, explore **Narrative Issue Corpus**: where a repair is supported, where it is not, and when more context is needed.
+For transcript diagnostics, begin with **TellTale**; for a practical workflow example, begin with **Client Intake**. For engineering methods and results, try **Grand Coder** or **Delegation boundary evidence**. For creative tools, explore **The Entropy Engine**, **Infinite Manuscript** and **DGCE**. **Atelier** examines the lifecycle of candidate work, and **Narrative Issue Corpus** explores where literary repairs are supported, where they are not, and when more context is needed.
+
+The earlier [agent-built-continuity repository](https://github.com/sheilastudios/agent-built-continuity) is preserved as a historical pointer. Its proposal and active research now live in **Genesis**.
+
+Read the stories behind the work in our **[Field Notes](https://sheilastudios.com/field-notes)**, or browse [all public repositories](https://github.com/orgs/sheilastudios/repositories).
 
 Each repository explains its own evidence, maturity and rights. A documentation showcase is not an installation package or a hosted-product offer.
 
