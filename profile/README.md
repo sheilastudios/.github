@@ -25,6 +25,8 @@ Start with the kind of work you want to inspect. Software, research evidence and
 
 | Project | What to explore | Public material |
 |---|---|---|
+| [HearthStage](https://github.com/sheilastudios/hearthstage-public) | SynthMinds, persistent companion worlds, shared writing and multiplayer roleplay | Public project showcase; private testing and ongoing integration, not a playable public release. [Visit HearthStage](https://hearthstage.com) |
+| [Companion Lab](https://github.com/sheilastudios/companion-lab) | Inspectable prompts, character cards, pluggable context/model adapters and side-by-side comparisons | MIT-licensed local lab; documentation CC BY 4.0; Helena transcript and novella CC BY-NC 4.0. Proprietary context plugin and HearthStage runtime not included |
 | [Genesis](https://github.com/sheilastudios/genesis) | Agent-developed memory practices, retrieval improvements and continuity for ongoing work | v1–v4 exploratory progress report, evidence status and reproduction roadmap; research documents, not a released execution bundle |
 | [Talking Heads](https://github.com/sheilastudios/talking-heads) | Chess where the pieces talk: a browser page, model-versus-model table and provider adapters | MIT-licensed standalone code; [watch the companion-host demo](https://sheilastudios.com/demos/talking-heads/index.html), a separate host and recording outside the software license |
 | [SCCN — Unthink](https://github.com/sheilastudios/sccn) | What survives when scenes are reconstructed from compact semantic packets? | Bounded scene-reconstruction study: three packets, seven model/surface configurations and 63 replies; not the full SCCN specification |
@@ -41,9 +43,9 @@ Start with the kind of work you want to inspect. Software, research evidence and
 | [Delegation boundary evidence](https://github.com/sheilastudios/delegation-boundary-evidence) | Policy optimization versus boundary enforcement in sequential delegation | Archived research records and reproducible finite-model code; bounded findings |
 | [DGCE](https://github.com/sheilastudios/dgce) | An unofficial DreamGen extension for continuity and selective recall | Public software; consult [published releases](https://github.com/sheilastudios/dgce/releases) separately from development candidates on main |
 
-For a hands-on starting point, try **[Talking Heads](https://github.com/sheilastudios/talking-heads)** or [watch the demonstration](https://sheilastudios.com/demos/talking-heads/index.html). For agent memory research, begin with **[Genesis](https://github.com/sheilastudios/genesis)** and its [experiment status](https://github.com/sheilastudios/genesis#experiment-status--13-november-2026). For semantic reconstruction, explore **SCCN — Unthink**; for the governance argument, read **The Infallible Bureaucrat**.
+For a hands-on starting point, try **[Companion Lab](https://github.com/sheilastudios/companion-lab)** for local prompt and context experiments, or **[Talking Heads](https://github.com/sheilastudios/talking-heads)** or [watch the demonstration](https://sheilastudios.com/demos/talking-heads/index.html). For agent memory research, begin with **[Genesis](https://github.com/sheilastudios/genesis)** and its [experiment status](https://github.com/sheilastudios/genesis#experiment-status--13-november-2026). For semantic reconstruction, explore **SCCN — Unthink**; for the governance argument, read **The Infallible Bureaucrat**.
 
-For transcript diagnostics, begin with **TellTale**; for a practical workflow example, begin with **Client Intake**. For engineering methods and results, try **Grand Coder** or **Delegation boundary evidence**. For creative tools, explore **The Entropy Engine**, **Infinite Manuscript** and **DGCE**. **Atelier** examines the lifecycle of candidate work, and **Narrative Issue Corpus** explores where literary repairs are supported, where they are not, and when more context is needed.
+For transcript diagnostics, begin with **TellTale**; for a practical workflow example, begin with **Client Intake**. For engineering methods and results, try **Grand Coder** or **Delegation boundary evidence**. For the companion worlds and shared-story experience we’re building, start with **[HearthStage](https://hearthstage.com)** and its **[public overview](https://github.com/sheilastudios/hearthstage-public)**. For other creative tools and showcases, explore **The Entropy Engine**, **Infinite Manuscript** and **DGCE**. **Atelier** examines the lifecycle of candidate work, and **Narrative Issue Corpus** explores where literary repairs are supported, where they are not, and when more context is needed.
 
 The earlier [agent-built-continuity repository](https://github.com/sheilastudios/agent-built-continuity) is preserved as a historical pointer. Its proposal and active research now live in **Genesis**.
 
@@ -55,5 +57,6 @@ Each repository explains its own evidence, maturity and rights. A documentation 
 
 - Discuss a project: [guided intake](https://sheilastudios.com/intake)
 - Website: [sheilastudios.com](https://sheilastudios.com)
+- HearthStage: [hearthstage.com](https://hearthstage.com) — SynthMinds, shared stories and worlds in development
 - YouTube: [@SheilaStudiosAI](https://www.youtube.com/@SheilaStudiosAI)
 - Contact: [sheila@sheilastudios.com](mailto:sheila@sheilastudios.com)
